@@ -7,11 +7,11 @@
 from .. import loader, utils
 import asyncio
 
-class FarmdMod(loader.Module):
+class MarriedFarm(loader.Module):
     """Модуль для фарма колец в @MarriedGroupBot 🌘 ʕ·ᴥ· ʔ"""
 
     strings = {
-        "name": "FarmdMod",
+        "name": "MarriedFarm",
         "description": "Модуль для фарма колец в @MarriedGroupBot 🌘 ʕ·ᴥ· ʔ",
         "developer": "Разработчик: @zolotarevxc 🌟"
     }
